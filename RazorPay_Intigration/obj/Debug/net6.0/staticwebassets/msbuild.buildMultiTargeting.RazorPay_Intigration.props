@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RazorPay_Intigration.props" />
+</Project>
